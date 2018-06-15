@@ -75,3 +75,32 @@ __Others__:
 | [blackboard](other/blackboard.py) | architectural model, assemble different sub-system knowledge to build a solution, AI approach - non gang of four pattern |
 | [graph_search](other/graph_search.py) | graphing algorithms - non gang of four pattern |
 | [hsm](other/hsm/hsm.py) | hierarchical state machine - non gang of four pattern |
+
+- 3-tier： 三层架构
+- abstract_factory：抽象工厂
+- adapter：适配器模式
+- borg：单例模式
+- bridge：桥接模式
+- builder：建造者模式
+- chain：链模式
+- command：命令模式
+- composite：组合模式
+- decorator：装饰模式
+- facade：外观模式
+- factory_method：工厂方法
+- flyweight：享元模式
+- graph_search：图搜索模式
+- iterator：迭代器模式
+- mediator：中介模式
+- memento：备忘录模式
+- mvc：mvc模式
+- null：空模式
+- observer：观察者模式
+- pool：连接池模式
+- prototype：原型模式
+- proxy：代理模式
+- publish_subscribe：发布/订阅模式
+- state：状态模式
+- strategy：策略模式
+- template：模板方法模式
+- visitor：访问者模式
